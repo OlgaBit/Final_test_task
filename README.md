@@ -8,4 +8,5 @@ https://www.labirint.ru/
 Есть несколько параметризованных тестов в проекте.
 
 ##Команда запуска тестов:
+python -m pytest .\final_test.py
 
